@@ -19,5 +19,3 @@ while (!venceu && tentativa > 0) {
         }
     }
 }
-
-
